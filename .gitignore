@@ -160,4 +160,3 @@ sftp-config.json
 vagrantroot/data/*.sql
 artifacts/*.run
 
-www/learn/
