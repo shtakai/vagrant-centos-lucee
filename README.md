@@ -1,4 +1,7 @@
 # Vagrant Lucee Development VM (CentOS / Apache / MySQL / Tomcat / Lucee)
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/vagrant-centos-lucee.svg)](https://www.guardrails.io)
+
 Vagrant box for local development with CFML and Java
 
 ##### Last Updated June 9, 2015
